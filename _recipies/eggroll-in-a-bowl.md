@@ -1,10 +1,14 @@
+layout: page
+title: "Eggroll in a Bowl"
+permalink: /eggrollbowl/
+
 # Egg Roll in a Bowl
 
 Egg rolls, but, you know, in a bowl.
 
-- ⏲️ Prep time: 10 min
-- 🍳Cook time: 15 min
-- 🍽️ Serving 22
+- Prep time: 10 min
+- Cook time: 15 min
+- Serving: 2
 
 ## Ingredients
 
