@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Eggroll in a Bowl"
 permalink: /eggrollbowl/
+---
 
 # Egg Roll in a Bowl
 
