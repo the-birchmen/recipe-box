@@ -2,12 +2,12 @@
 
 ## Ingredients
 
--12 Cups All Purpose Flour
--1¾ Tablespoon Baking Powder
--1¼ Teaspoon Baking Soda
--1½ Teaspoon Salt
--11 Cup Milk
--11 Stick plus 1 Tablespoon Unsalted Butter (Melted) (reserve 1 tablespoon)
+- 2 Cups All Purpose Flour
+- ¾ Tablespoon Baking Powder
+- ¼ Teaspoon Baking Soda
+- ½ Teaspoon Salt
+- 1 Cup Milk
+- 1 Stick plus 1 Tablespoon Unsalted Butter (Melted) (reserve 1 tablespoon)
 
 ## Directions
 

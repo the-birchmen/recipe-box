@@ -36,9 +36,3 @@ Avocado, guacamole, salsa, dairy-free cheese, cashew sour cream, nutritional yea
 4. Add mushroom slices and 1 Tbsp. taco seasoning. Stirring occasionally, cook another 7-8 minutes or until softened. Add juice of 1/2 lime (or more) and stir. Salt if necessary and turn off heat.
 
 5. While the veggies are cooking, prepare your toppings of choice. Warm the tortillas if desired. Spoon the fajita mixture into the center of tortillas, and serve with toppings of choice.
-
-## Contribution
-
-the-birchmen - BAT [GitHub](https://github.com/the-birchmen/)
-
-;tags = quick asian cabbage
