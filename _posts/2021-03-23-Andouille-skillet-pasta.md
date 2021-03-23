@@ -1,8 +1,3 @@
----
-layout: post
-title: "Andouilli Sausage skillet pasta"
----
-
 # Andouilli Sausage skillet pasta
 
 ## Ingredients

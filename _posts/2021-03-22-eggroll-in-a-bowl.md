@@ -1,10 +1,4 @@
----
-layout: page
-title: "Eggroll in a Bowl"
-permalink: /eggrollbowl/
----
-
-# Egg Roll in a Bowl
+# Eggroll in a Bowl
 
 Egg rolls, but, you know, in a bowl.
 
